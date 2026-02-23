@@ -1,5 +1,9 @@
 # Framework de Clustering con Restricciones de Cardinalidad
 
+## Autores
+- Mishelle Menéndez  
+- Milton Peralta
+
 ## Descripción General
 
 Este repositorio implementa un framework experimental completo para la evaluación de algoritmos de clustering, tanto con restricciones de cardinalidad como sin ellas.
