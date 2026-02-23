@@ -1,0 +1,49 @@
+# =========================
+# R / RStudio
+# =========================
+.Rhistory
+.RData
+.RDataTmp
+.Rproj.user/
+*.Rproj
+
+# =========================
+# Outputs / artefactos generados
+# =========================
+predictions/
+metrics/
+images/
+datasets_local/
+
+# Cache/serializados generados
+*.rds
+
+# =========================
+# Logs y reportes generados
+# =========================
+peakRAM_log.csv
+peakRAM_log.txt
+peakRAM_log.pdf
+*.log
+
+# =========================
+# Archivos comprimidos
+# =========================
+*.zip
+*.7z
+*.tar
+*.tar.gz
+
+# =========================
+# Script que pediste ignorar
+# =========================
+Generate_Graphs.R
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
